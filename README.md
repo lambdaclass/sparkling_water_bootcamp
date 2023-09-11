@@ -15,6 +15,7 @@ This first week will be focused on the development of one of the building blocks
 - [Mersenne primes](https://eprint.iacr.org/2023/824.pdf)
 
 ### Challenges:
-- Implement Montgomery backend for 32 bit fields.
-- Implement efficient Mersenne prime backend.
-- Implement efficient backend for pseudo-Mersenne primes.
+- [Implement Montgomery backend for 32 bit fields](https://github.com/lambdaclass/lambdaworks/issues/538).
+- [Implement efficient Mersenne prime backend](https://github.com/lambdaclass/lambdaworks/issues/540).
+- [Implement efficient backend for pseudo-Mersenne primes](https://github.com/lambdaclass/lambdaworks/issues/393).
+- Compare specific field implementations with ordinary Montgomery arithmetic.
