@@ -1,6 +1,6 @@
 # Lambda's Sparkling Water Bootcamp - Repo for challenges and learning path
 
-Public repository for excersices, challenges and all the needs of the Sparkling Water Bootcamp.
+Public repository for exercises, challenges and all the needs of the Sparkling Water Bootcamp.
 
 ## Week 1 - Forging your tools: Finite Fields
 
