@@ -28,6 +28,7 @@ This first week will be focused on the development of one of the building blocks
 - $7$ is a generator of the multiplicative group of $Z_p^\star$, where $p = 2^{64} - 2^{32} +1$. Find the generators for the $2^{32}$ roots of unity. Find generators for subgroups of order $2^{16} + 1$ and $257$.
 - Define in your own words what is a group, a subgroup, a ring and a field.
 - What are the applications of the Chinese Remainder Theorem in Cryptography?
+- Find all the subgroups of the multiplicative group of $Z_{29}^\star$
 
 ## Supplementary Material
 - [Polynomial Secret Sharing](https://decentralizedthoughts.github.io/2020-07-17-polynomial-secret-sharing-and-the-lagrange-basis/)
