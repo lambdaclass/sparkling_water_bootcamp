@@ -19,3 +19,9 @@ This first week will be focused on the development of one of the building blocks
 - [Implement efficient Mersenne prime backend](https://github.com/lambdaclass/lambdaworks/issues/540).
 - [Implement efficient backend for pseudo-Mersenne primes](https://github.com/lambdaclass/lambdaworks/issues/393).
 - Compare specific field implementations with ordinary Montgomery arithmetic.
+
+### Cryptography content:
+- [Serious Cryptography](https://books.google.com.ar/books/about/Serious_Cryptography.html?id=1D-QEAAAQBAJ&source=kp_book_description&redir_esc=y), Chapters 9 & 10.
+
+### Exercises
+- Implement naïve version of RSA.
