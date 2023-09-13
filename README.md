@@ -25,3 +25,7 @@ This first week will be focused on the development of one of the building blocks
 
 ### Exercises
 - Implement naïve version of RSA.
+
+## Supplementary Material
+- [Polynomial Secret Sharing](https://decentralizedthoughts.github.io/2020-07-17-polynomial-secret-sharing-and-the-lagrange-basis/)
+- [Polynomials over a Field](https://decentralizedthoughts.github.io/2020-07-17-the-marvels-of-polynomials-over-a-field/)
