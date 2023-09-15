@@ -33,3 +33,5 @@ This first week will be focused on the development of one of the building blocks
 ## Supplementary Material
 - [Polynomial Secret Sharing](https://decentralizedthoughts.github.io/2020-07-17-polynomial-secret-sharing-and-the-lagrange-basis/)
 - [Polynomials over a Field](https://decentralizedthoughts.github.io/2020-07-17-the-marvels-of-polynomials-over-a-field/)
+- [Fourier Transform](https://www.youtube.com/watch?v=spUNpyF58BY)
+- [Fast Fourier Transform](https://www.youtube.com/watch?v=h7apO7q16V0)
