@@ -57,6 +57,7 @@ During the second week we'll continue with Finite Fields and begin with Elliptic
 - The BLS12-381 elliptic curve is given by the equation $y^2 = x^3 + 4$ and defined over $\mathbb{F}_p$ with p = 0x1a0111ea397fe69a4b1ba7b6434bacd764774b84f38512bf6730d2a0f6b0f6241eabfffeb153ffffb9feffffffffaaab. The group generator is given by the point p1 = (0x04, 0x0a989badd40d6212b33cffc3f3763e9bc760f988c9926b26da9dd85e928483446346b8ed00e1de5d5ea93e354abe706c) and the cofactor is $h_1 = 0x396c8c005555e1568c00aaab0000aaab$. Find the generator $g$ of the subgroup of order 
 r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 - Implement a naïve version of the Diffie - Hellman protocol
+- Implement point compression and decompression to store elliptic curve points
 
 ### Challenges
 
