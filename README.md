@@ -35,3 +35,32 @@ This first week will be focused on the development of one of the building blocks
 - [Polynomials over a Field](https://decentralizedthoughts.github.io/2020-07-17-the-marvels-of-polynomials-over-a-field/)
 - [Fourier Transform](https://www.youtube.com/watch?v=spUNpyF58BY)
 - [Fast Fourier Transform](https://www.youtube.com/watch?v=h7apO7q16V0)
+
+## Week 2 - Enter Elliptic Curves
+
+During the second week we'll continue with Finite Fields and begin with Elliptic Curves and dive deeper into Rust
+
+### Recommended material
+
+- [Moonmath Manual](https://leastauthority.com/community-matters/moonmath-manual/) - Chapter 5, until 5.3
+- [Programming Bitcoin](https://books.google.fr/books/about/Programming_Bitcoin.html?id=O2aHDwAAQBAJ&source=kp_book_description&redir_esc=y) - Chapters 2 & 3.
+- [Introduction to Mathematical Cryptography](https://books.google.com.ar/books/about/An_Introduction_to_Mathematical_Cryptogr.html?id=BHuTQgAACAAJ&source=kp_book_description&redir_esc=y) - Chapter 5 until 5.5
+- [Serious Cryptography](https://books.google.com.ar/books/about/Serious_Cryptography.html?id=1D-QEAAAQBAJ&source=kp_book_description&redir_esc=y) - Chapters 11 & 12.
+- [Pairings for Beginners](https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff394720493bd28278889c6/1609798774687/PairingsForBeginners.pdf) - Chapters 1 & 2
+
+### Exercises
+
+- Define an elliptic curve element type.
+- Implement the basic operations: addition and doubling.
+- Implement scalar multiplication.
+- Check that the point belongs to the correct subgroup.
+- The BLS12-381 elliptic curve is given by the equation $y^2 = x^3 + 4$ and defined over $\mathbb{F}_p$ with p = 0x1a0111ea397fe69a4b1ba7b6434bacd764774b84f38512bf6730d2a0f6b0f6241eabfffeb153ffffb9feffffffffaaab. The group generator is given by the point p1 = (0x04, 0x0a989badd40d6212b33cffc3f3763e9bc760f988c9926b26da9dd85e928483446346b8ed00e1de5d5ea93e354abe706c) and the cofactor is $h_1 = 0x396c8c005555e1568c00aaab0000aaab$. Find the generator $g$ of the subgroup of order 
+r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
+- Implement a naïve version of the Diffie - Hellman protocol
+
+  ### Challenges
+
+  - Special CTF challenge (will be revealed later)
+  - [Implement BN254](https://github.com/lambdaclass/lambdaworks/issues/548)
+  - Implement Secp256k1
+  - Implement Ed25519
