@@ -58,9 +58,11 @@ During the second week we'll continue with Finite Fields and begin with Elliptic
 r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 - Implement a naïve version of the Diffie - Hellman protocol
 
-  ### Challenges
+### Challenges
 
-  - Special CTF challenge (will be revealed later)
-  - [Implement BN254](https://github.com/lambdaclass/lambdaworks/issues/548)
-  - Implement Secp256k1
-  - Implement Ed25519
+- Special CTF challenge (will be revealed later)
+- [Implement BN254](https://github.com/lambdaclass/lambdaworks/issues/548)
+- Implement Secp256k1
+- Implement Ed25519
+
+### Rust Workshop
