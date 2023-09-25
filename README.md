@@ -67,3 +67,26 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 - Implement Ed25519
 
 ### Rust Workshop
+
+- [Aguante Rust](https://youtu.be/nYpMbjzb1t8?si=HNanyXYWcu1xDjG5)
+
+## Week 3: Polynomials
+
+### Recommended material
+
+- [Polynomials](https://www.youtube.com/watch?v=HiaJa3yhHTU&list=PLFX2cij7c2PynTNWDBzmzaD6ij170ILbQ&index=6)
+- [Lagrange interpolation](https://www.youtube.com/watch?v=REnFOKo9gXs&list=PLFX2cij7c2PynTNWDBzmzaD6ij170ILbQ&index=10)
+- [Lagrange interpolation and secret sharing](https://www.youtube.com/watch?v=3g4wZnhl4m8&list=PLFX2cij7c2PynTNWDBzmzaD6ij170ILbQ&index=3)
+- [Moonmath](https://leastauthority.com/community-matters/moonmath-manual/) - Chapter 3.4
+- [Convolution polynomial rings - Introduction to Mathematical Cryptography](https://books.google.com.ar/books/about/An_Introduction_to_Mathematical_Cryptogr.html?id=BHuTQgAACAAJ&source=kp_book_description&redir_esc=y) - Chapter 6.9
+
+### Supplementary
+
+- [Roots of unity and polynomials](https://www.youtube.com/watch?v=3KK5RuAgOpA&list=PLFX2cij7c2PynTNWDBzmzaD6ij170ILbQ&index=2)
+
+### Exercises
+
+- Define a polynomial type.
+- Implement basic operations, such as addition, multiplication and evaluation.
+- Implement Lagrange polynomial interpolation.
+- Implement basic version of Shamir's secret sharing.
