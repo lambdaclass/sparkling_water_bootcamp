@@ -101,3 +101,4 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 - [Naïve ECC](https://github.com/saitunc/naive_ecc)
 - [Crypto](https://github.com/irfanbozkurt/crypto)
 - [RSA](https://github.com/WiseMrMusa/rsa-naive)
+- [Exercises from weeks 1 & 2](https://github.com/ArpitxGit/sparkling_water_bootcamp/tree/main)
