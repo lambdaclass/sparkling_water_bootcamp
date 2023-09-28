@@ -83,6 +83,8 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 ### Supplementary
 
 - [Roots of unity and polynomials](https://www.youtube.com/watch?v=3KK5RuAgOpA&list=PLFX2cij7c2PynTNWDBzmzaD6ij170ILbQ&index=2)
+- [Fast Fourier Transform](https://www.youtube.com/watch?v=toj_IoCQE-4)
+- [FFT walkthrough](https://www.youtube.com/watch?v=Ty0JcR6Dvis)
 
 ### Exercises
 
