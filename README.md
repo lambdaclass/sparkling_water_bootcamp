@@ -96,3 +96,8 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 ### Issue
 
 - [Implement Stockham FFT](http://wwwa.pikara.ne.jp/okojisan/otfft-en/stockham1.html)
+
+### Links to repos with solutions to the exercises
+- [Naïve ECC](https://github.com/saitunc/naive_ecc)
+- [Crypto](https://github.com/irfanbozkurt/crypto)
+- [RSA](https://github.com/WiseMrMusa/rsa-naive)
