@@ -92,3 +92,7 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 - Implement basic operations, such as addition, multiplication and evaluation.
 - Implement Lagrange polynomial interpolation.
 - Implement basic version of Shamir's secret sharing.
+
+### Issue
+
+- [Implement Stockham FFT](http://wwwa.pikara.ne.jp/okojisan/otfft-en/stockham1.html)
