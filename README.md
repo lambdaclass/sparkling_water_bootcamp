@@ -97,6 +97,25 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 
 - [Implement Stockham FFT](http://wwwa.pikara.ne.jp/okojisan/otfft-en/stockham1.html)
 
+## Week 4: Symmetric encryption
+
+### Recommended material
+
+- [One time pad - Dan Boneh](https://www.youtube.com/watch?v=pQkyFJp2eUg&list=PL58C6Q25sEEHXvACYxiav_lC2DqSlC7Og&index=6)
+- [Stream ciphers and pseudorandom generators - Dan Boneh](https://www.youtube.com/watch?v=ZSjTMSvp-eI&list=PL58C6Q25sEEHXvACYxiav_lC2DqSlC7Og&index=7)
+- [Attacks - Dan Boneh](https://www.youtube.com/watch?v=Qm8fycVt5v8&list=PL58C6Q25sEEHXvACYxiav_lC2DqSlC7Og&index=8)
+- [Semantic security - Dan Boneh](https://www.youtube.com/watch?v=6LFyXO58F4A&list=PL58C6Q25sEEHXvACYxiav_lC2DqSlC7Og&index=11)
+- [Block ciphers - Dan Boneh](https://www.youtube.com/watch?v=dzoqxqfpZB4&list=PL58C6Q25sEEHXvACYxiav_lC2DqSlC7Og&index=35)
+- [Serious Cryptography](https://books.google.com.ar/books/about/Serious_Cryptography.html?id=1D-QEAAAQBAJ&source=kp_book_description&redir_esc=y) - Chapters 3 - 5.
+
+### Supplementary material
+
+- [AES - NIST](https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.197.pdf)
+
+### Exercises
+
+- Implement AES round function
+
 ### Links to repos with solutions to the exercises
 - [Naïve ECC](https://github.com/saitunc/naive_ecc)
 - [Crypto](https://github.com/irfanbozkurt/crypto)
