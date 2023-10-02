@@ -97,7 +97,16 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 
 - [Implement Stockham FFT](http://wwwa.pikara.ne.jp/okojisan/otfft-en/stockham1.html)
 
-## Week 4: Symmetric encryption
+## Week 4: STARKs
+
+### Recommended material
+
+- [Lambdaworks Docs](https://github.com/lambdaclass/lambdaworks/tree/main/docs/src/starks)
+- [Stark 101](https://github.com/starkware-industries/stark101)
+- [Constraints](https://blog.lambdaclass.com/periodic-constraints-and-recursion-in-zk-starks/)
+- [Stark 101 - rs](https://github.com/lambdaclass/stark101-rs/)
+
+## Week 5: Symmetric encryption
 
 ### Recommended material
 
