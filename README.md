@@ -116,8 +116,20 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 
 - Implement AES round function
 
+### Side project - Multilinear polynomials
+
+- [Proofs, Args and ZK](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
+
+#### Challenges
+
+- Implement a multilinear polynomial type with all the basic operations.
+
 ### Links to repos with solutions to the exercises
 - [Naïve ECC](https://github.com/saitunc/naive_ecc)
 - [Crypto](https://github.com/irfanbozkurt/crypto)
-- [RSA](https://github.com/WiseMrMusa/rsa-naive)
+- [Naïve RSA](https://github.com/WiseMrMusa/rsa-naive)
+- [Naïve RSA](https://github.com/Elvis339/naive_rsa)
 - [Exercises from weeks 1 & 2](https://github.com/ArpitxGit/sparkling_water_bootcamp/tree/main)
+- [Programming bitcoin EC](https://github.com/Elvis339/rbtc)
+- [Shamir secret sharing](https://github.com/cliraa/shamir_secret_sharing)
+- [Several exercises](https://github.com/ArpitxGit/sparkling_water_bootcamp/tree/main)
