@@ -105,6 +105,12 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 - [Stark 101](https://github.com/starkware-industries/stark101)
 - [Constraints](https://blog.lambdaclass.com/periodic-constraints-and-recursion-in-zk-starks/)
 - [Stark 101 - rs](https://github.com/lambdaclass/stark101-rs/)
+- [A summary on FRI low degree testing](https://eprint.iacr.org/2022/1216)
+- [STARKs by Risc0](https://dev.risczero.com/reference-docs/about-starks)
+
+### Exercises
+
+- Complete STARK-101
 
 ## Week 5: Symmetric encryption
 
@@ -142,3 +148,18 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 - [Programming bitcoin EC](https://github.com/Elvis339/rbtc)
 - [Shamir secret sharing](https://github.com/cliraa/shamir_secret_sharing)
 - [Several exercises](https://github.com/ArpitxGit/sparkling_water_bootcamp/tree/main)
+
+### Intended Roadmap
+
+- Finite Fields
+- Elliptic Curves
+- Polynomials
+- Extension fields
+- Pairings
+- Public key encryption
+- Symmetric encryption
+- Hash functions
+- Signatures
+- Authenticated encryption
+- SNARKs
+- STARKs
