@@ -105,6 +105,8 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 - [Stark 101](https://github.com/starkware-industries/stark101)
 - [Constraints](https://blog.lambdaclass.com/periodic-constraints-and-recursion-in-zk-starks/)
 - [Stark 101 - rs](https://github.com/lambdaclass/stark101-rs/)
+- [Anatomy of a STARK](https://aszepieniec.github.io/stark-anatomy/)
+- [BrainSTARK](https://aszepieniec.github.io/stark-brainfuck/)
 - [A summary on FRI low degree testing](https://eprint.iacr.org/2022/1216)
 - [STARKs by Risc0](https://dev.risczero.com/reference-docs/about-starks)
 
