@@ -141,6 +141,12 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 
 - Choose a project: STARKs, Sumcheck protocol or Groth16 (or propose a new project)
 
+### Additional resources for each project
+
+- STARKs: see week 4.
+- [Groth16](https://eprint.iacr.org/2016/260.pdf)
+- [Multilinear polynomials and sumcheck protocol](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
+
 #### Challenges
 
 - Implement a multilinear polynomial type with all the basic operations.
