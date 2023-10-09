@@ -137,6 +137,10 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 
 - [Proofs, Args and ZK](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 
+### Mandatory task
+
+- Choose a project: STARKs, Sumcheck protocol or Groth16 (or propose a new project)
+
 #### Challenges
 
 - Implement a multilinear polynomial type with all the basic operations.
