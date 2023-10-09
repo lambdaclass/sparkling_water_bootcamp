@@ -151,6 +151,20 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 
 - Implement a multilinear polynomial type with all the basic operations.
 
+## Week 6: Interactive proofs and SNARKs
+
+- [Moonmath](https://leastauthority.com/community-matters/moonmath-manual/) Chapters 6 - 8.
+- [Proofs, Arguments and Zero Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) Chapters 1 - 5.
+- [Overview of modern SNARK constructions](https://www.youtube.com/watch?v=bGEXYpt3sj0)
+
+## Week 7: Plonk
+
+## Week 8: Lookup arguments
+
+## Week 9: Signatures
+
+## Week 10: Folding schemes
+
 ### Links to repos with solutions to the exercises
 - [Naïve ECC](https://github.com/saitunc/naive_ecc)
 - [Crypto](https://github.com/irfanbozkurt/crypto)
