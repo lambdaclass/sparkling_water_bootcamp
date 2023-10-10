@@ -156,6 +156,8 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 - [Moonmath](https://leastauthority.com/community-matters/moonmath-manual/) Chapters 6 - 8.
 - [Proofs, Arguments and Zero Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) Chapters 1 - 5.
 - [Overview of modern SNARK constructions](https://www.youtube.com/watch?v=bGEXYpt3sj0)
+- [Pinocchio protocol overview](https://www.zeroknowledgeblog.com/index.php/zk-snarks)
+- [Pinocchio implementation](https://github.com/lambdaclass/pinocchio_lambda_vm)
 
 ## Week 7: Plonk
 
