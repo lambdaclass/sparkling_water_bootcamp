@@ -158,14 +158,27 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 - [Overview of modern SNARK constructions](https://www.youtube.com/watch?v=bGEXYpt3sj0)
 - [Pinocchio protocol overview](https://www.zeroknowledgeblog.com/index.php/zk-snarks)
 - [Pinocchio implementation](https://github.com/lambdaclass/pinocchio_lambda_vm)
+- [SNARKs and STARKs](https://zkhack.dev/whiteboard/module-four/)
 
 ## Week 7: Plonk
 
+- [Plonk](https://eprint.iacr.org/2019/953)
+- [Custom gates](https://zkhack.dev/whiteboard/module-five/)
+- [Plonk by hand](https://research.metastate.dev/plonk-by-hand-part-1/)
+- [Plonk docs in Lambdaworks](https://github.com/lambdaclass/lambdaworks/tree/main/docs/src/plonk)
+
 ## Week 8: Lookup arguments
+
+- [Plookup](https://eprint.iacr.org/2020/315.pdf)
+- [LogUp and GKR](https://eprint.iacr.org/2023/1284.pdf)
+- [Neptune - Permutation Argument](https://neptune.cash/learn/tvm-cross-table-args/)
+- [Randomized AIR with preprocessing](https://hackmd.io/@aztec-network/plonk-arithmetiization-air)
 
 ## Week 9: Signatures
 
 ## Week 10: Folding schemes
+
+- [Nova by Justin Drake](https://zkhack.dev/whiteboard/module-fourteen/)
 
 ### Links to repos with solutions to the exercises
 - [Naïve ECC](https://github.com/saitunc/naive_ecc)
