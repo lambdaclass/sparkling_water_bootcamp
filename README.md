@@ -146,6 +146,7 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 
 - STARKs: see week 4.
 - [Groth16](https://eprint.iacr.org/2016/260.pdf)
+- [DIZK - Groth 16](https://eprint.iacr.org/2018/691.pdf)
 - [Multilinear polynomials and sumcheck protocol](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 
 #### Challenges
