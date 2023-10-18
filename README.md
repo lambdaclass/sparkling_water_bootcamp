@@ -169,6 +169,8 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 - [STARK paper](https://eprint.iacr.org/2018/046.pdf)
 - [DEEP FRI](https://eprint.iacr.org/2019/336)
 - [Proximity gaps](https://eprint.iacr.org/2020/654)
+- [STARKs by Eli Ben-Sasson I](https://www.youtube.com/watch?v=9VuZvdxFZQo)
+- [STARKs by Eli Ben-Sasson II](https://www.youtube.com/watch?v=L7tZeO8ihcQ)
 
 ## Week 7: Plonk
 
