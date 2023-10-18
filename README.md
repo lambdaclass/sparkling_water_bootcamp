@@ -162,6 +162,14 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 - [Pinocchio implementation](https://github.com/lambdaclass/pinocchio_lambda_vm)
 - [SNARKs and STARKs](https://zkhack.dev/whiteboard/module-four/)
 
+### Additional material on some proof systems
+
+- [EthSTARK](https://github.com/starkware-libs/ethSTARK/tree/master)
+- [EthSTARK - paper](https://eprint.iacr.org/2021/582)
+- [STARK paper](https://eprint.iacr.org/2018/046.pdf)
+- [DEEP FRI](https://eprint.iacr.org/2019/336)
+- [Proximity gaps](https://eprint.iacr.org/2020/654)
+
 ## Week 7: Plonk
 
 - [Plonk](https://eprint.iacr.org/2019/953)
