@@ -185,6 +185,10 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 - [LogUp and GKR](https://eprint.iacr.org/2023/1284.pdf)
 - [Neptune - Permutation Argument](https://neptune.cash/learn/tvm-cross-table-args/)
 - [Randomized AIR with preprocessing](https://hackmd.io/@aztec-network/plonk-arithmetiization-air)
+- [PlonkUp](https://eprint.iacr.org/2022/086.pdf)
+- [Lookups by Ingonyama](https://medium.com/@ingonyama/a-brief-history-of-lookup-arguments-a4eeeeca2749)
+- [LogUp](https://eprint.iacr.org/2022/1530.pdf)
+- [Lookups - Halo2](https://zcash.github.io/halo2/design/proving-system/lookup.html)
 
 ## Week 9: Signatures
 
