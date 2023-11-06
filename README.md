@@ -192,6 +192,11 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 
 ## Week 9: Signatures
 
+- [BLS signatures](https://www.ietf.org/archive/id/draft-irtf-cfrg-bls-signature-05.html#name-introduction-2)
+- [Real World Cryptography](https://books.google.com.ar/books/about/Real_World_Cryptography.html?id=Qd5CEAAAQBAJ&source=kp_book_description&redir_esc=y) Chapter 7
+- [ECDSA](https://www.rfc-editor.org/rfc/rfc6605.txt)
+- [RSA Signature](https://www.ietf.org/rfc/rfc8017.html#section-5.2)
+
 ## Week 10: Folding schemes
 
 - [Nova by Justin Drake](https://zkhack.dev/whiteboard/module-fourteen/)
