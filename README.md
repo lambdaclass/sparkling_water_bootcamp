@@ -200,6 +200,23 @@ r = 0x73eda753299d7d483339d80809a1d80553bda402fffe5bfeffffffff00000001.
 ## Week 10: Folding schemes
 
 - [Nova by Justin Drake](https://zkhack.dev/whiteboard/module-fourteen/)
+- [Nova](https://eprint.iacr.org/2021/370)
+- [SuperNova](https://eprint.iacr.org/2022/1758)
+- [ProtoStar](https://eprint.iacr.org/2023/620)
+- [ProtoGalaxy](https://eprint.iacr.org/2023/1106)
+
+## Projects
+
+- Implement IPA commitment scheme
+- Implement Jacobian coordinates for Elliptic Curves
+- Benchmark elliptic curve operations
+- Add improvements to fixed base scalar multiplication in Elliptic Curves
+- Add BN254 elliptic curve
+- Implement Pasta curves
+- Implement Lookup arguments for Plonk (Plookup)
+- Sumcheck protocol
+- Benchmark and optimize multilinear polynomial operations
+- Import circuits from gnark or circom to use with Groth16 backend
 
 ### Links to repos with solutions to the exercises
 - [Naïve ECC](https://github.com/saitunc/naive_ecc)
